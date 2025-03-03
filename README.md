@@ -1,1 +1,1 @@
-# Test course
+Hello, User!
