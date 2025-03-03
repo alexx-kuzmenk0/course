@@ -1,2 +1,3 @@
 Hello, Hexlet! 
-How are you?
+How are you? 
+Goodbye guys!
